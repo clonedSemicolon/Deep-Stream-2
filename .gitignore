@@ -127,3 +127,34 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.pyc
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.suo
+*__pycache__
+*.idea
+*.ipynb_checkpoints
+*.pickle
+*.npy
+*.blg
+*.bbl
+*.bcf
+*.toc
+*.wav
+*.sh
+/synthesizer/saved_models/
+/vocoder/models/
+saved_models/*
+venv/*
+.history/*
+./__pycache__/*
+/LiveSpeechPotraits/
+/venv/
+/saved_models/
+/data/
+/dir/
+/results/
+
